@@ -48,3 +48,7 @@ div.container {
     width: 600px;
     margin: auto;
 }
+
+.post-footer {
+    padding-bottom: 1rem;
+}
